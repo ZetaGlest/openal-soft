@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\OpenAL32\alAuxEffectSlot.c" />
+    <ClCompile Include="..\OpenAL32\alBuffer.c" />
+    <ClCompile Include="..\OpenAL32\alEffect.c" />
+    <ClCompile Include="..\OpenAL32\alError.c" />
+    <ClCompile Include="..\OpenAL32\alExtension.c" />
+    <ClCompile Include="..\OpenAL32\alFilter.c" />
+    <ClCompile Include="..\OpenAL32\alListener.c" />
+    <ClCompile Include="..\OpenAL32\alSource.c" />
+    <ClCompile Include="..\OpenAL32\alState.c" />
+    <ClCompile Include="..\OpenAL32\event.c" />
+    <ClCompile Include="..\OpenAL32\sample_cvt.c" />
+    <ClCompile Include="..\Alc\ALc.c" />
+    <ClCompile Include="..\Alc\ALu.c" />
+    <ClCompile Include="..\Alc\alconfig.c" />
+    <ClCompile Include="..\Alc\bs2b.c" />
+    <ClCompile Include="..\Alc\converter.c" />
+    <ClCompile Include="..\Alc\mastering.c" />
+    <ClCompile Include="..\Alc\ringbuffer.c" />
+    <ClCompile Include="..\Alc\effects\chorus.c" />
+    <ClCompile Include="..\Alc\effects\compressor.c" />
+    <ClCompile Include="..\Alc\effects\dedicated.c" />
+    <ClCompile Include="..\Alc\effects\distortion.c" />
+    <ClCompile Include="..\Alc\effects\echo.c" />
+    <ClCompile Include="..\Alc\effects\equalizer.c" />
+    <ClCompile Include="..\Alc\effects\modulator.c" />
+    <ClCompile Include="..\Alc\effects\null.c" />
+    <ClCompile Include="..\Alc\effects\reverb.c" />
+    <ClCompile Include="..\Alc\helpers.c" />
+    <ClCompile Include="..\Alc\hrtf.c" />
+    <ClCompile Include="..\Alc\uhjfilter.c" />
+    <ClCompile Include="..\Alc\ambdec.c" />
+    <ClCompile Include="..\Alc\bformatdec.c" />
+    <ClCompile Include="..\Alc\nfcfilter.c" />
+    <ClCompile Include="..\Alc\panning.c" />
+    <ClCompile Include="..\Alc\mixer.c" />
+    <ClCompile Include="..\Alc\mixer_c.c" />
+    <ClCompile Include="..\Alc\mixer_sse.c" />
+    <ClCompile Include="..\Alc\mixer_sse2.c" />
+    <ClCompile Include="..\Alc\mixer_sse3.c" />
+    <ClCompile Include="..\Alc\mixer_sse41.c" />
+    <ClCompile Include="..\Alc\backends\base.c" />
+    <ClCompile Include="..\Alc\backends\loopback.c" />
+    <ClCompile Include="..\Alc\backends\null.c" />
+    <ClCompile Include="..\Alc\backends\winmm.c" />
+    <ClCompile Include="..\Alc\backends\dsound.c" />
+    <ClCompile Include="..\Alc\backends\wave.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\bsinc_inc.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9A8DF811-CFE5-3C78-9AA4-5A97F98B99A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{67AF2572-F1B3-3995-9D9C-CB203ED82608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3E97BC0-F297-3782-9A02-BB1E2E1EE6B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

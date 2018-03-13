@@ -1,0 +1,4 @@
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/native-tools/CMakeFiles/bin2h.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/native-tools/CMakeFiles/bsincgen.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/native-tools/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/native-tools/CMakeFiles/ZERO_CHECK.dir

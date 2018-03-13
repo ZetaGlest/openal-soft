@@ -1,0 +1,13 @@
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/INSTALL.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/build_version.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/native-tools.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/OpenAL.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/common.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/makehrtf.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/openal-info.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/altonegen.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/alrecord.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/utils/alsoft-config/CMakeFiles/INSTALL.dir
+C:/Users/mathu/Downloads/zetaglest/mk/windows/dependencies/src/openal/utils/alsoft-config/CMakeFiles/ALL_BUILD.dir
